@@ -124,7 +124,7 @@ def get_director(nombre_director:str):
 
 
 # ML
-df_movies_credits = df_movies_credits.iloc[:,1:]
+df_movies_credits = df_movies_credits.iloc[:5000,1:]
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 tfidf = TfidfVectorizer(stop_words='english')
