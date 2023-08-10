@@ -1701,7 +1701,7 @@
 1699,3054,['Phil Karlson']
 1700,3055,['Mark Robson']
 1701,3056,['Marcus Nispel']
-1702,3057,"['Kevin Connor', 'Kevin Connor']"
+1702,3057,['Kevin Connor']
 1703,3059,['D.W. Griffith']
 1704,3060,['King Vidor']
 1705,3061,['King Vidor']
@@ -2127,7 +2127,7 @@
 2125,4909,['Fred Zinnemann']
 2126,4910,['Basil Dearden']
 2127,4911,['Ron Shelton']
-2128,4912,"['George Clooney', 'George Clooney']"
+2128,4912,['George Clooney']
 2129,4913,['Jeff Stanzler']
 2130,4916,['Sidney Lumet']
 2131,4917,['L.Q. Jones']
@@ -2293,7 +2293,7 @@
 2291,5494,['Tom Reeve']
 2292,5503,['Andrew Davis']
 2293,5506,['Alexander Mackendrick']
-2294,5511,"['Jean-Pierre Melville', 'Jean-Pierre Melville']"
+2294,5511,['Jean-Pierre Melville']
 2295,5516,"['Joel Coen', 'Ethan Coen']"
 2296,5519,['Gianni Crea']
 2297,5521,['Jeff Probst']
@@ -2957,7 +2957,7 @@
 2955,8764,"['Jerry Zucker', 'Jim Abrahams', 'David Zucker']"
 2956,8765,['Gabriele Salvatores']
 2957,8766,"['Kevin Yagher', 'Joe Chappelle']"
-2958,8767,"['Claude Zidi', 'Claude Zidi']"
+2958,8767,['Claude Zidi']
 2959,8768,['Claude Miller']
 2960,8769,['John Carpenter']
 2961,8770,['David Earnhardt']
@@ -3593,7 +3593,7 @@
 3591,9750,['Ben Garant']
 3592,9753,['Stewart Raffill']
 3593,9754,['Richard Loncraine']
-3594,9755,"['Matthew Hastings', 'Matthew Hastings']"
+3594,9755,['Matthew Hastings']
 3595,9756,['Craig Rosenberg']
 3596,9757,['Brian Robbins']
 3597,9759,['David R. Ellis']
@@ -4560,7 +4560,7 @@
 4558,10988,['Jeremiah S. Chechik']
 4559,10989,['Baltasar Kormákur']
 4560,10990,['Lee Tamahori']
-4561,10991,"['Michael Haigney', 'Kunihiko Yuyama', 'Michael Haigney', 'Kunihiko Yuyama']"
+4561,10991,"['Michael Haigney', 'Kunihiko Yuyama']"
 4562,10992,['Lawrence Guterman']
 4563,10994,['Peter Kosminsky']
 4564,10995,['Jean-Jacques Annaud']
@@ -4664,7 +4664,7 @@
 4662,11112,['Donald Petrie']
 4663,11113,['George Cukor']
 4664,11114,['Don Chaffey']
-4665,11115,"['Gil Cates Jr.', 'Gil Cates Jr.']"
+4665,11115,['Gil Cates Jr.']
 4666,11119,['Geoff Murphy']
 4667,11120,['Peter Weir']
 4668,11121,['Roman Polanski']
@@ -5137,7 +5137,7 @@
 5135,11713,['Lo Wei']
 5136,11718,['Paul Flaherty']
 5137,11719,['Enzo Barboni']
-5138,11752,"['Ute Wieland', 'Ute Wieland']"
+5138,11752,['Ute Wieland']
 5139,11761,['Michael Lander']
 5140,11763,['Shaad Ali']
 5141,11765,['Tony Maylam']
@@ -5582,7 +5582,7 @@
 5580,12597,['Scott Derrickson']
 5581,12598,['Jean Girault']
 5582,12599,"['Michael Haigney', 'Kunihiko Yuyama']"
-5583,12600,"['Kunihiko Yuyama', 'Jim Malone', 'Kunihiko Yuyama', 'Jim Malone']"
+5583,12600,"['Kunihiko Yuyama', 'Jim Malone']"
 5584,12601,['Olaf Ittenbach']
 5585,12602,['Harald Reinl']
 5586,12605,['Florian Schwarz']
@@ -5851,7 +5851,7 @@
 5849,13205,['Brian Pimental']
 5850,13206,['Chris Waitt']
 5851,13207,['Marcus Nispel']
-5852,13209,"['Jafar Panahi', 'Jafar Panahi']"
+5852,13209,['Jafar Panahi']
 5853,13210,['Michael Anderson']
 5854,13220,['Toby Wilkins']
 5855,13221,['Nils Gaup']
@@ -6776,7 +6776,7 @@
 6774,14785,['Shekhar Kapur']
 6775,14786,['Robert Harmon']
 6776,14787,['James T. Walker']
-6777,14788,"['Steven Soderbergh', 'Steven Soderbergh']"
+6777,14788,['Steven Soderbergh']
 6778,14791,['Daniel Cohen']
 6779,14793,['Dean DeBlois']
 6780,14794,['Lindsay Anderson']
@@ -6907,7 +6907,7 @@
 6905,15022,['David Kendall']
 6906,15024,['Uli Edel']
 6907,15026,"['Steve Wang', 'Screaming Mad George']"
-6908,15028,"['Jonathan Frakes', 'Jonathan Frakes']"
+6908,15028,['Jonathan Frakes']
 6909,15029,['John Byrum']
 6910,15030,"['Louise Osmond', 'Jerry Rothwell']"
 6911,15031,['Eric Meza']
@@ -8346,7 +8346,7 @@
 8344,18435,['John McKay']
 8345,18437,['Finn Taylor']
 8346,18438,['Lee Hae-Jun']
-8347,18440,"['Jake Kennedy', 'Jake Kennedy']"
+8347,18440,['Jake Kennedy']
 8348,18441,['Sean Tretta']
 8349,18442,['Matthew Hastings']
 8350,18443,['Jeffery Scott Lando']
@@ -9970,7 +9970,7 @@
 9968,22640,['Jonas Pate']
 9969,22642,['Roger Corman']
 9970,22643,['Jamie Mitchell']
-9971,22649,"['Frank Borzage', 'Frank Borzage']"
+9971,22649,['Frank Borzage']
 9972,22650,['Henri Verneuil']
 9973,22657,['John Cromwell']
 9974,22660,['Robert Stevenson']
@@ -10148,7 +10148,7 @@
 10146,23286,['Carl Pierson']
 10147,23289,['Thomas Villum Jensen']
 10148,23303,['Maurice Phillips']
-10149,23305,"['Asif Kapadia', 'Asif Kapadia']"
+10149,23305,['Asif Kapadia']
 10150,23312,['Michael Schultz']
 10151,23319,['Marty Callner']
 10152,23325,['Hal Walker']
@@ -10337,10 +10337,10 @@
 10335,24019,['Mike Nichols']
 10336,24020,['Steve Boyum']
 10337,24021,['David Slade']
-10338,24023,"['Anders Nilsson', 'Anders Nilsson']"
+10338,24023,['Anders Nilsson']
 10339,24024,['Richard Holm']
 10340,24025,['Richard Holm']
-10341,24026,"['Anders Nilsson', 'Anders Nilsson']"
+10341,24026,['Anders Nilsson']
 10342,24032,['Carl Reiner']
 10343,24034,['Timothy Bjorklund']
 10344,24037,['Lee Sang-gi']
@@ -10915,7 +10915,7 @@
 10913,25536,['Johnnie To']
 10914,25538,['Edward Yang']
 10915,25539,['Sammo Hung']
-10916,25541,"['Nicolo Donato', 'Nicolo Donato']"
+10916,25541,['Nicolo Donato']
 10917,25548,['Pat Jackson']
 10918,25549,['Dick Powell']
 10919,25550,['Gerald Mayer']
@@ -17236,7 +17236,7 @@
 17234,42492,['Irvin Kershner']
 17235,42493,['Norman Lear']
 17236,42494,['Jim McBride']
-17237,42495,"['Peter Brook', 'Peter Brook']"
+17237,42495,['Peter Brook']
 17238,42496,['Emile de Antonio']
 17239,42497,['James Bidgood']
 17240,42498,['Satyajit Ray']
@@ -17868,7 +17868,7 @@
 17866,43619,['Catherine Corsini']
 17867,43625,['Paul Marcus']
 17868,43626,['Michael Anderson']
-17869,43629,"['Christopher Nolan', 'Christopher Nolan']"
+17869,43629,['Christopher Nolan']
 17870,43634,['Stacy Cochran']
 17871,43635,['Yuri Kantake']
 17872,43637,['David Chung']
@@ -24254,7 +24254,7 @@
 24252,69214,['Andrzej Jakimowski']
 24253,69217,['John Murlowski']
 24254,69225,['Frédéric Schoendoerffer']
-24255,69234,"['Tony Richardson', 'Tony Richardson']"
+24255,69234,['Tony Richardson']
 24256,69266,['Edward Zwick']
 24257,69278,['Nicolás Goldbart']
 24258,69292,['Wesley Barry']
@@ -25673,7 +25673,7 @@
 25671,77197,['Karen Arthur']
 25672,77198,['Frank Capra']
 25673,77210,['Ernst Lubitsch']
-25674,77221,"['Jean-Jacques Annaud', 'Jean-Jacques Annaud']"
+25674,77221,['Jean-Jacques Annaud']
 25675,77223,['Bruce Beresford']
 25676,77233,['Danny Huston']
 25677,77234,['Kasper Barfoed']
@@ -26972,7 +26972,7 @@
 26970,84195,['Luciano Moura']
 26971,84196,['Mark Kitchell']
 26972,84197,"['Michael D. Olmos', 'Youssef Delara']"
-26973,84198,"['Kristi Jacobson', 'Lori Silverbush', 'Kristi Jacobson', 'Lori Silverbush']"
+26973,84198,"['Kristi Jacobson', 'Lori Silverbush']"
 26974,84199,['Jon Kasdan']
 26975,84200,['Jamie Travis']
 26976,84201,['So Yong Kim']
@@ -28826,7 +28826,7 @@
 28824,97987,['Bitto Albertini']
 28825,97989,['Kleber Mendonça Filho']
 28826,97991,['George Cukor']
-28827,97995,"['Max Linder', 'Max Linder']"
+28827,97995,['Max Linder']
 28828,98010,['Michael Curtiz']
 28829,98025,['Michele Massimo Tarantini']
 28830,98027,['Antonio Margheriti']
@@ -28936,7 +28936,7 @@
 28934,99008,['Jean Yarbrough']
 28935,99022,['Ross Wilson']
 28936,99040,['Robert Lepage']
-28937,99080,"['George Melford', 'Varick Frissell', 'Varick Frissell', 'George Melford']"
+28937,99080,"['George Melford', 'Varick Frissell']"
 28938,99095,"['Eduardo De Filippo', 'Luciano Salce', 'Marco Ferreri']"
 28939,99099,['Teruo Ishii']
 28940,99104,['Matthew Jason Walsh']
@@ -29548,7 +29548,7 @@
 29546,105001,['Law Wing-cheong']
 29547,105024,['Mark Moskowitz']
 29548,105033,['José Giovanni']
-29549,105045,"['Margarethe von Trotta', 'Margarethe von Trotta']"
+29549,105045,['Margarethe von Trotta']
 29550,105056,['Franklin J. Schaffner']
 29551,105059,['Richard Thorpe']
 29552,105067,['Ernst Lubitsch']
@@ -30079,7 +30079,7 @@
 30077,109912,['Donald Shebib']
 30078,109913,['Lew Landers']
 30079,109933,['Irving Cummings']
-30080,109962,"['George Cukor', 'George Cukor']"
+30080,109962,['George Cukor']
 30081,109970,['Frank Borzage']
 30082,109979,['Edoardo Leo']
 30083,109991,['Sergei Gerasimov']
@@ -30126,7 +30126,7 @@
 30124,110416,['Tomm Moore']
 30125,110419,['John Mackenzie']
 30126,110420,['Mamoru Hosoda']
-30127,110428,"['Bruno Dumont', 'Bruno Dumont']"
+30127,110428,['Bruno Dumont']
 30128,110433,['Terry Hughes']
 30129,110447,['Marco Bellocchio']
 30130,110457,['William Beaudine']
@@ -30675,7 +30675,7 @@
 30673,116711,['Chris Wedge']
 30674,116712,['Julien Duvivier']
 30675,116714,['José Luis Sáenz de Heredia']
-30676,116723,"['Simon Aboud', 'Simon Aboud']"
+30676,116723,['Simon Aboud']
 30677,116733,"['Ivan Ivanov-Vano', 'Aleksandra Snezhko-Blotskaya', 'Victor Gromov']"
 30678,116741,['Shawn Levy']
 30679,116745,['Ben Stiller']
@@ -30986,7 +30986,7 @@
 30984,119905,['Albert Serra']
 30985,119907,['Nancy Savoca']
 30986,119914,['Jane Howell']
-30987,119916,"['John Gorrie', 'John Gorrie']"
+30987,119916,['John Gorrie']
 30988,119926,['Etienne Périer']
 30989,119928,['Colin Lowrey']
 30990,119933,['Jack Gold']
@@ -31307,7 +31307,7 @@
 31305,123620,['Paul Morrissey']
 31306,123623,['Piers Haggard']
 31307,123628,['Colin Gregg']
-31308,123634,"['Aaron C. Peer', 'Aaron C. Peer']"
+31308,123634,['Aaron C. Peer']
 31309,123648,['Youssef Chahine']
 31310,123665,"['Harold S. Bucquet', 'Jack Conway']"
 31311,123678,"['Joshua Oppenheimer', 'Christine Cynn', 'Anonymous']"
@@ -31492,7 +31492,7 @@
 31490,125409,['David Richards']
 31491,125413,['Robert Mulligan']
 31492,125414,"['Jonah Bekhor', 'Zach Math']"
-31493,125458,"['Kevin Connor', 'Kevin Connor']"
+31493,125458,['Kevin Connor']
 31494,125472,['Vic Losick']
 31495,125490,['Brandon Cronenberg']
 31496,125495,['Serge Leroy']
@@ -32134,7 +32134,7 @@
 32132,132597,['Henry King']
 32133,132601,"['Mark A.Z. Dippé', 'Taedong Park']"
 32134,132608,['Mauro Lima']
-32135,132641,"['Mikio Naruse', 'Mikio Naruse']"
+32135,132641,['Mikio Naruse']
 32136,132654,['Lewis Milestone']
 32137,132705,['Ramón Obón']
 32138,132709,['James Whitaker']
@@ -32769,7 +32769,7 @@
 32767,141901,['Özcan Deniz']
 32768,141950,['Volker Schlöndorff']
 32769,141955,['Jacques Charon']
-32770,141971,"['JP Siili', 'JP Siili', 'JP Siili']"
+32770,141971,['JP Siili']
 32771,141976,['John Bradshaw']
 32772,141978,['Phil Karlson']
 32773,142012,"['Mario Van Peebles', 'Melvin Van Peebles']"
@@ -32811,7 +32811,7 @@
 32809,142507,['Marek Polgar']
 32810,142528,['David Delrieux']
 32811,142533,['Jahong Koo']
-32812,142563,"['PES', 'PES']"
+32812,142563,['PES']
 32813,142573,['Jan-Willem Breure']
 32814,142585,['Lamont Johnson']
 32815,142611,['Žiga Virc']
@@ -33407,7 +33407,7 @@
 33405,152787,['Paolo Cavara']
 33406,152790,['Phil Alden Robinson']
 33407,152792,['Atom Egoyan']
-33408,152795,"['Ari Folman', 'Ari Folman']"
+33408,152795,['Ari Folman']
 33409,152797,['Jacques Demy']
 33410,152846,['Damiano Damiani']
 33411,152861,['Andrej Košak']
@@ -33632,7 +33632,7 @@
 33630,157283,['David MacDonald']
 33631,157289,['Shawn Christensen']
 33632,157293,"[""Remo D'Souza""]"
-33633,157301,"['Minkyu Lee', 'Minkyu Lee']"
+33633,157301,['Minkyu Lee']
 33634,157305,['Timothy Reckart']
 33635,157320,['Jan Jakub Kolski']
 33636,157336,['Christopher Nolan']
@@ -33839,7 +33839,7 @@
 33837,159770,['Matt Johnson']
 33838,159810,['Angelo Longoni']
 33839,159824,['Genndy Tartakovsky']
-33840,159849,"['Frank Capra', 'Anatole Litvak', 'Frank Capra', 'Anatole Litvak']"
+33840,159849,"['Frank Capra', 'Anatole Litvak']"
 33841,159862,['Hou Hsiao-hsien']
 33842,159878,['Yevgeni Bauer']
 33843,159897,['Louis Aimé Augustin Le Prince']
@@ -34267,7 +34267,7 @@
 34265,168501,['Sam Pillsbury']
 34266,168530,['Tim Story']
 34267,168535,['Daniel J. Sullivan']
-34268,168538,"['Dan Wolman', 'Dan Wolman']"
+34268,168538,['Dan Wolman']
 34269,168541,['Goran Paskaljević']
 34270,168552,['Tom Shoval']
 34271,168607,['Mark L. Bussler']
@@ -35188,7 +35188,7 @@
 35186,187017,"['Phil Lord', 'Christopher Miller']"
 35187,187022,['Jia Zhangke']
 35188,187028,['Hany Abu-Assad']
-35189,187156,"[""Shane O'Sullivan"", ""Shane O'Sullivan""]"
+35189,187156,"[""Shane O'Sullivan""]"
 35190,187219,['Ted Kotcheff']
 35191,187238,['Donato Ursitti']
 35192,187252,['Vincent Lannoo']
@@ -35769,7 +35769,7 @@
 35767,199575,['Zak Hilditch']
 35768,199578,['Mark Hartley']
 35769,199584,['Jang Cheol-Soo']
-35770,199591,"['Joseph Ruben', 'Joseph Ruben']"
+35770,199591,['Joseph Ruben']
 35771,199602,['Nejc Gazvoda']
 35772,199615,['János Szász']
 35773,199644,['Jan Hřebejk']
@@ -38679,7 +38679,7 @@
 38677,265177,['Xavier Dolan']
 38678,265178,['Merata Mita']
 38679,265180,['Andrey Zvyagintsev']
-38680,265189,"['Ruben Östlund', 'Ruben Östlund']"
+38680,265189,['Ruben Östlund']
 38681,265193,['Naomi Kawase']
 38682,265195,['Damián Szifrón']
 38683,265208,['Simon West']
@@ -40236,7 +40236,7 @@
 40234,298662,"['Albert Maysles', 'Charlotte Zwerin', 'David Maysles']"
 40235,298664,['Chuck Workman']
 40236,298695,['Sean Faughnan']
-40237,298721,"['Apichatpong Weerasethakul', 'Apichatpong Weerasethakul']"
+40237,298721,['Apichatpong Weerasethakul']
 40238,298722,['Alessandro Genovesi']
 40239,298729,['Riccardo Milani']
 40240,298751,"['Darren Grodsky', 'Danny Jacobs']"
